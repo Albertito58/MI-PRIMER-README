@@ -43,7 +43,7 @@ Aquesta Aplicaió ha sigut elaborada amb aquestes eines.
 
 ## Ajuda 
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en (https://github.com/tu/proyecto/ayuda)
+Pots trobar ajuda extra en -> (https://github.com/tu/proyecto/ayuda)
 
 ## Autors 
 
