@@ -15,7 +15,7 @@ Mira **Deployment** per saber com obrirla perquè funcioni correctament.
 Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanable) i un editor codi com Brackets.
 
 
-### Instalació
+### Deployment
 1.Una Vegada descarregada la Carpeta que conte el codi font amb la connexió a la base de dades la fiquem dins el servidor(ficar a carpeta www o equivalent dins la carpeta del WampServer o Servidor) i l'obrim amb l'editor de Codi.
 
       Principal
@@ -29,22 +29,9 @@ Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanab
 ## Utilització Sistema de Reservas
 El seu funcionament es simple i molt intuitiu.
 Nomès entrar a la web veuras dos Botons un per crear Reserva i un altre per veure les teves Reserves(nomès pots veure-les si ets client).
-Si li donem a crear Reserva et demanara les teves dades i et genera un codi de Reserva
+Si li donem a crear Reserva et demanara les teves dades i et genera la reserva i et donara d'alta automaticament(gurdara les teves dades amb reserva a la base de dades).
+Si li donem a veure les Teves Reserves, ens demanara les nostres dades de Client(s'obté al crear primera reserva) i si les credenciasl son correctes es mostraran les reserves creades amb aquell cleint i totes les dades.
 
-
-
-
-### Y las pruebas de estilo de codificación 
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construit amb 
 
