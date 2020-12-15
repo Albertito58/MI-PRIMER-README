@@ -52,7 +52,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en (https://github.c
 
 ## LLicencia 
 
-<p>Este proyecto está bajo mi Licencia.</p>
+<p>Aquest projecte esta sota la meva Llicència.</p>
 
 
 
