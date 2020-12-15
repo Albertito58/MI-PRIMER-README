@@ -1,46 +1,40 @@
 # MI-PRIMER-README
 <h1>Sistema Reserva Hotel</h1>
 
-El projecte consisteix en una aplicació que permet Crear,Modificar i Gestionar Reserves d'un Hotel.
+<p>El projecte consisteix en una aplicació que permet Crear,Modificar i Gestionar Reserves d'un Hotel<p>
 
-## Començant🚀
+## Començant
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Per poder Modificar-lo o utilitzar-lo has de descarregar la Carpeta Principal del repository que conte la connexió a la base de dades , la Plana Web i un bloc de notas amb les bases de Dades que s'han de Crear en PhpMyAdmin(Clients,Habitacions,Reserves...)on es duen a terme les Reserves d'habitacions.
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Mira **Deployment** per saber com obrirla perquè funcioni correctament.
 
 
 ### Requisits 
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanable) i un editor codi com Brackets.
 
-```
-Da un ejemplo
-```
 
-### Instalación 🔧
+### Instalació
+1.Una Vegada descarregada la Carpeta que conte el codi font amb la connexió a la base de dades la fiquem dins el servidor(ficar a carpeta www o equivalent dins la carpeta del WampServer o Servidor) i l'obrim amb l'editor de Codi.
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+      Principal
+          -codifont.php
+          -connexio.php
+          
+2.Una vegada obert, obrim phpMyadmin a travès del Servidor(WampServer) i creem les bases de dades seguint el bloc de notas amb les querys.
+3.Si has seguit el passos correctament, no queda res per fer nomès s'ha d'anar al teu navegador preferit - htpp://localhost/Principal- i obres la plana Web.
 
-_Dí cómo será ese paso_
 
-```
-Da un ejemplo
-```
+## Utilització Sistema de Reservas
+El seu funcionament es simple i molt intuitiu.
+Nomès entrar a la web veuras dos Botons un per crear Reserva i un altre per veure les teves Reserves(nomès pots veure-les si ets client).
+Si li donem a crear Reserva et demanara les teves dades i et genera un codi de Reserva
 
-_Y repite_
 
-```
-hasta finalizar
-```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
+### Y las pruebas de estilo de codificación 
 
 _Explica que verifican estas pruebas y por qué_
 
@@ -48,50 +42,30 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
+## Despliegue 
 
 _Agrega notas adicionales sobre como hacer deploy_
 
-## Construido con 🛠️
+## Construit amb 
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+Aquesta Aplicaió ha sigut elaborada amb aquestes eines.
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+*Brackets-PHP. 
+*WampServer- Servidor.
+*phpmyadmin - Gestionar Base de Dades y Taulas.
 
-## Contribuyendo 🖇️
+## Ajuda 
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+Puedes encontrar mucho más de cómo utilizar este proyecto en (https://github.com/tu/proyecto/ayuda)
 
-## Wiki 📖
+## Autors 
 
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
+<p>Albert Parrado</p>
+...
 
-## Versionado 📌
+## LLicencia 
 
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo mi Licencia.
+<p>Este proyecto está bajo mi Licencia.</p>
 
 
 
