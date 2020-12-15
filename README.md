@@ -1,9 +1,9 @@
 # MI-PRIMER-README
-# Sistema Reserva Hotel
+<h1>Sistema Reserva Hotel</h1>
 
 El projecte consisteix en una aplicació que permet Crear,Modificar i Gestionar Reserves d'un Hotel.
 
-## Comenzant🚀
+## Començant🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
