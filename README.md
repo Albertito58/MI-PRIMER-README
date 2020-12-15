@@ -1,16 +1,16 @@
 # MI-PRIMER-README
-# Título del Proyecto
+# Sistema Reserva Hotel
 
-_Acá va un párrafo que describa lo que es el proyecto_
+El projecte consisteix en una aplicació que permet Crear,Modificar i Gestionar Reserves d'un Hotel.
 
-## Comenzando 🚀
+## Comenzant🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
-### Pre-requisitos 📋
+### Requisits 
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
