@@ -12,7 +12,7 @@ Mira **Deployment** per saber com obrirla perquè funcioni correctament.
 
 ### Requisits 
 
-Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanable) i un editor codi com Brackets.
+Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanable) i un editor codi com Brackets.<br>
 <img  src="1200px-Brackets_Icon.svg.png" width="50" height="50">
 <img src="descarga.png" width="50" height="50"> 
 
