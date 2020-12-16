@@ -23,6 +23,10 @@ Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanab
       Principal
           -codifont.php
           -connexio.php
+| Principal|
+| ----- |
+| codifont.php | 
+| connexio.php |
           
 2.Una vegada obert, obrim phpMyadmin a travès del Servidor(WampServer) i creem les bases de dades seguint el bloc de notas amb les querys.
 3.Si has seguit el passos correctament, no queda res per fer nomès s'ha d'anar al teu navegador preferit - htpp://localhost/Principal- i obres la plana Web.
