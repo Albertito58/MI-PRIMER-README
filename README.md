@@ -20,9 +20,6 @@ Per poder obrir-ho has de tenir un servidor com per exemple:WampServer(recomanab
 ### Deployment
 1.Una Vegada descarregada la Carpeta que conte el codi font amb la connexió a la base de dades la fiquem dins el servidor(ficar a carpeta www o equivalent dins la carpeta del WampServer o Servidor) i l'obrim amb l'editor de Codi.
 
-      Principal
-          -codifont.php
-          -connexio.php
 | Principal|
 | ----- |
 | codifont.php | 
